@@ -13,9 +13,9 @@
              <dataSource type="POOLED">
                  <property name="driver" value="com.mysql.jdbc.Driver"/>
                 <!--  <property name="url" value="jdbc:mysql://localhost:3306/mybatis"/> -->
-                 <property name="url" value="jdbc:mysql://47.52.114.182:3306/testDb"/>
+                 <property name="url" value="jdbc:mysql://127.0.0.1:3306/testDb"/>
                  <property name="username" value="root"/>
-                 <property name="password" value="xnk123"/>
+                 <property name="password" value="root"/>
                  <!-- <property name="password" value="123456"/> -->
              </dataSource>    
          </environment>
